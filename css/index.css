@@ -1,6 +1,58 @@
 
 
-h1{
-    color:blue
+#css1{
+    color:orange;
 }
 
+.title{
+    color:gray;
+}
+
+#css1:hover{
+    color:red;
+}
+
+h1, div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color:greenyellow !important;
+}
+
+h1:hover {
+    color:red;
+}
+
+.user-name{
+    color:black
+}
+
+
+a:hover {
+    color:blue;
+}
+
+
+#shrikant{
+    color:blueviolet;
+}
+
+.header{
+    color:red;
+}
+
+/* a[href]{
+    color:green;
+} */
+
+.title{
+    color:blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.title{
+    color:yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
