@@ -1,58 +1,23 @@
-
-
-#css1{
-    color:orange;
-}
-
-.title{
-    color:gray;
-}
-
-#css1:hover{
-    color:red;
-}
-
-h1, div {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-h1{
-    color:greenyellow !important;
-}
-
-h1:hover {
-    color:red;
-}
-
-.user-name{
-    color:black
-}
-
-
-a:hover {
-    color:blue;
-}
-
-
-#shrikant{
-    color:blueviolet;
-}
-
-.header{
-    color:red;
-}
-
-/* a[href]{
-    color:green;
+/* html, body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 } */
 
-.title{
-    color:blue;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+/* html, body {
+    font-family: 'Inter', sans-serif;
+} */
+
+
+html, body {
+    font-family: "Inter", sans-serif;
+    font-size:16px;
+    color: #444444;
+    background-color: aliceblue;
 }
 
+.bold-text{
+    font-weight: 800;
+}
 
-.title{
-    color:yellow;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+.big-size{
+    font-size:32px;
 }
