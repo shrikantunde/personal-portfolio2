@@ -14,6 +14,17 @@ html, body {
     background-color: aliceblue;
 }
 
+
+.page-container{
+    display: flex;
+    justify-content: center;
+}
+
+.page-center{
+    margin:0 auto;
+    max-width: 750px;
+}
+
 .bold-text{
     font-weight: 800;
 }
@@ -21,3 +32,26 @@ html, body {
 .big-size{
     font-size:32px;
 }
+
+.display-content{
+    display:flex;
+    flex-direction:row;
+}
+
+.image-center{
+    margin:auto 0;
+}
+
+.image-rounded{
+    border-radius: 77px;
+}
+
+.navpadding {
+    padding-right: 10px;
+}
+
+.nav-container{
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
